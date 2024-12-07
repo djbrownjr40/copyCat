@@ -6,3 +6,4 @@ credentials.json
 
 # Optional: Ignore Python bytecode files
 *.pyc
+token.pickle
