@@ -1,0 +1,8 @@
+# Ignore credentials.json
+credentials.json
+
+# Ignore macOS system files
+.DS_Store
+
+# Optional: Ignore Python bytecode files
+*.pyc
